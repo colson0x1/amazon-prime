@@ -7,4 +7,6 @@ for (let i = 0; i < 9; i++) {
   products += `<div>${name}</div>`;
 }
 
-console.log(products);
+// console.log(products);
+
+document.querySelector('#dev-products').innerHTML = products;
