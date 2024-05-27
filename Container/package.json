@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/colson0x1/amazon-prime/issues"
   },
-  "homepage": "https://github.com/colson0x1/amazon-prime#readme"
+  "homepage": "https://github.com/colson0x1/amazon-prime#readme",
+  "dependencies": {
+    "html-webpack-plugin": "5.5.0",
+    "nodemon": "3.1.1",
+    "webpack": "5.88.0",
+    "webpack-cli": "4.10.0",
+    "webpack-dev-server": "4.7.4"
+  }
 }
