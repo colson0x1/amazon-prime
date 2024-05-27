@@ -1,0 +1,26 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colson0x1/microfrontends.git"
+  },
+  "author": "COLSON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colson0x1/microfrontends/issues"
+  },
+  "homepage": "https://github.com/colson0x1/microfrontends#readme",
+  "dependencies": {
+    "faker": "5.1.0",
+    "html-webpack-plugin": "5.5.0",
+    "webpack": "5.88.0",
+    "webpack-cli": "4.10.0",
+    "webpack-dev-server": "4.7.4"
+  }
+}
