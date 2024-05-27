@@ -4,18 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colson0x1/microfrontends.git"
+    "url": "git+https://github.com/colson0x1/amazon-prime.git"
   },
   "author": "COLSON",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/colson0x1/microfrontends/issues"
+    "url": "https://github.com/colson0x1/amazon-prime/issues"
   },
-  "homepage": "https://github.com/colson0x1/microfrontends#readme",
+  "homepage": "https://github.com/colson0x1/amazon-prime#readme",
   "dependencies": {
     "faker": "5.1.0",
     "html-webpack-plugin": "5.5.0",
