@@ -2,7 +2,7 @@
 
 ## Intro 🚀
 
-Sup! You've discovered the epitome of modern frontend engineering. This application showcases a state-of-the-art microfrontend architecture, utilizing Webpack's Module Federation plugin to seamlessly integrate multiple independently developed and deployed microfrontends into a unified application. 😆
+Sup!! You've discovered the epitome of modern frontend engineering. This application showcases a state-of-the-art microfrontend architecture, utilizing Webpack's Module Federation plugin to seamlessly integrate multiple independently developed and deployed microfrontends into a unified application. 😆
 
 ### Highlights:
 
